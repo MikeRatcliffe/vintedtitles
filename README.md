@@ -2,6 +2,8 @@
 
 A browser extension that adds full item titles to Vinted listings, making it easier to see complete product information without clicking on each item.
 
+![Vinted With Titles](./screenshots/Vinted%20With%20Titles.png)
+
 ## Features
 
 - **Full Title Display**: Shows complete item titles instead of truncated versions
