@@ -1,6 +1,6 @@
 # VintedTitles
 
-A Firefox extension that adds full item titles to Vinted listings, making it easier to see complete product information without clicking on each item.
+A browser extension that adds full item titles to Vinted listings, making it easier to see complete product information without clicking on each item.
 
 ## Features
 
@@ -28,10 +28,20 @@ VintedTitles extracts the full item title from the image alt text and displays i
 
 ## Installation
 
+### Firefox
+
 1. Download or clone this repository
 2. Open Firefox and navigate to `about:debugging#/runtime/this-firefox`
 3. Click "Load Temporary Add-on"
 4. Select the `manifest.json` file from this repository
+
+### Chrome/Chromium
+
+1. Download or clone this repository
+2. Open Chrome and navigate to `chrome://extensions/`
+3. Enable "Developer mode" (toggle in top right)
+4. Click "Load unpacked"
+5. Select the directory containing `manifest.json`
 
 ## Development
 
